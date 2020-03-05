@@ -1,0 +1,6 @@
+CREATE TABLE cursos (
+	idCursos INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(50) NOT NULL,
+    Duracao INT NOT NULL,
+    Periodo VARCHAR (30) NOT NULL
+ );
